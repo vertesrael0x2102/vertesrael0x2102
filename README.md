@@ -1,13 +1,32 @@
-# Hi, I'm Vert 👋
+# 👋 Yo, I’m Vert  
 
-I’m an Information Technology student passionate about learning, building, and exploring code.  
-Currently interested in algorithms, optimization, and web development.  
+⚔️ *“Struggle, endure, contend… for that alone is the sword of one who defies fate.”* – Berserk  
+
+I’m an **Information Technology student** who loves mixing code with creativity.  
+Most of my projects explore **algorithms, optimization, and problem-solving**, but I also enjoy building things for the web.  
 
 ---
-🌱 Always learning  
-⚡ Anime & tech enthusiast  
 
+## 🌌 About Me  
+- 🎓 IT student @ MSU-IIT  
+- 🧩 Into algorithms, data, and making things efficient  
+- ⚡ Anime enthusiast (especially *Berserk*, *Attack on Titan*, and *Steins;Gate*)  
+- 🎮 Casual gamer & tech explorer  
 
+---
+
+## 🔧 Tech Stack  
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
+</p>
+
+---
 
 # ⚔️ Berserk Tribute  
 
