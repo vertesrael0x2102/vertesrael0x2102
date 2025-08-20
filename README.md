@@ -5,8 +5,11 @@
 - 😄 Pronouns: like/him 🥀💔
 - ⚡ Fun fact: Your brain is constantly eating itself
 
-<div align="center">
-  <img src="https://tenor.com/view/chainsaw-man-gif-10567408672500115776.gif" 
-       alt="Banner" 
-       style="width:100%; height:200px; object-fit:cover; border-radius:12px;">
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/vertesrael0x2102/vertesrael0x2102/main/Final-1.png" width="200" />
+  <img src="https://raw.githubusercontent.com/vertesrael0x2102/vertesrael0x2102/main/Final-2.png" width="200" />
+  <img src="https://raw.githubusercontent.com/vertesrael0x2102/vertesrael0x2102/main/Final-3.png" width="200" />
+  <img src="https://raw.githubusercontent.com/vertesrael0x2102/vertesrael0x2102/main/Final-4.png" width="200" />
+  <img src="https://raw.githubusercontent.com/vertesrael0x2102/vertesrael0x2102/main/Final-5.png" width="200" />
+</p>
+
