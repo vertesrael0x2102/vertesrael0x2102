@@ -1,6 +1,6 @@
 # 👋 Yo, I’m Vert  
 
-⚔️ *“Struggle, endure, contend… for that alone is the sword of one who defies fate.”* – Berserk  
+⚔️ *“Heed my words struggler. Soon a rain of blood the likes of which you cannot imagine shall fall down upon you, it will be a storm of death, but take heed struggler, struggle, endure, contend, for that alone is the sword of one who defies death.”* – Berserk  
 
 I’m an **Information Technology student** who loves mixing code with creativity.  
 Most of my projects explore **algorithms, optimization, and problem-solving**, but I also enjoy building things for the web.  
