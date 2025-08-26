@@ -3,9 +3,7 @@
 ⚔️ *“Heed my words struggler. Soon a rain of blood the likes of which you cannot imagine shall fall down upon you, it will be a storm of death, but take heed struggler, struggle, endure, contend, for that alone is the sword of one who defies death.”* – Berserk  
 
 I’m an **Information Technology student** still finding my way, learning bit by bit.  
-I don’t claim to have all the answers — I just keep moving forward, building and improving where I can.  
-Most of my projects touch on **algorithms, optimization, and problem-solving**, but I also enjoy the challenge of creating for the web.    
-
+I don’t claim to have all the answers — I just keep moving forward, building and improving where I can.    
 ---
 
 ## 🌌 About Me  
