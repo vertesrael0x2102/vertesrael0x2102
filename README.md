@@ -20,7 +20,6 @@ I don’t claim to have all the answers — I just keep moving forward, building
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="JavaScript" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
 </p>
@@ -28,9 +27,6 @@ I don’t claim to have all the answers — I just keep moving forward, building
 ---
 
 # ⚔️ Berserk Tribute  
-
-> *“In this world, is the destiny of mankind controlled by some transcendental entity or law...? Is it like the hand of God hovering above? At least it is true that man has no control, even over his own will.”*  
-
 Berserk (ベルセルク) is a dark fantasy manga created by **Kentaro Miura**, later adapted into anime.  
 It follows the journey of **Guts**, the Black Swordsman — a lone mercenary wielding an enormous sword — as he battles against fate, betrayal, and monstrous forces beyond human comprehension.  
 
