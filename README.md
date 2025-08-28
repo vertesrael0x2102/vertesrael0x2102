@@ -1,31 +1,42 @@
-# 👋 Yo, I’m Vert  
+# Konichiwa 👋
 
-<p align="center">
-  <img src="1.gif" alt="Demo" width="80%">
-</p>
- 
-    
+<div align="center">
+<img hight="300" width="700" alt="GIF" align="center" src="1.gif">
+</div>
+
+</br>
+</br>
+</br>
+
+
+# About ME 💬 :
+
+### - I'm 10101 years old 
+
+<img hight="400" width="500" alt="GIF" align="right" src="2.gif">
+
+### - Learning :
+- 🔗 Cybersecurity
+- 🔗 Ethical Hacking
+
+### - Hobbies : 
+- 🔗 Gaming Addict
+- 🔗 Watching Anime
+
+
+</br>
+</br>
+</br>
+
+
 ---
- <img hight="400" width="500" alt="GIF" align="right" src="2.gif">
-## 🌌 About Me  
-- 🎓 IT student @ MSU-IIT  
-- 🧩 Into algorithms, data, and making things efficient  
-- ⚡ Anime enthusiast (especially *Berserk*, *Attack on Titan*, and *Steins;Gate*)  
-- 🎮 Casual gamer & tech explorer  
-
----
-
-## 🔧 Tech Stack  
-
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
-</p>
-
----
+## Skill Set:
+<a href="https://github.com/vertesrael0x2102">
+<div align="center">  
+       <img src="https://skillicons.dev/icons?i=html,css,linux,wireshark,java,python&perline=4" /> 
+</div>
+</a>
+ </td><td valign="top" width="25%">
 
 # ⚔️ Berserk Tribute  
 Berserk (ベルセルク) is a dark fantasy manga created by **Kentaro Miura**, later adapted into anime.  
