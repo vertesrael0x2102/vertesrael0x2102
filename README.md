@@ -4,11 +4,9 @@
   <img src="1.gif" alt="Demo" width="80%">
 </p>
  
-
-I’m an **Information Technology student** still finding my way, learning bit by bit.  
-I don’t claim to have all the answers — I just keep moving forward, building and improving where I can.    
+    
 ---
-
+ <img hight="400" width="500" alt="GIF" align="right" src="2.gif">
 ## 🌌 About Me  
 - 🎓 IT student @ MSU-IIT  
 - 🧩 Into algorithms, data, and making things efficient  
