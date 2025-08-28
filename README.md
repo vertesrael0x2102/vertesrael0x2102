@@ -1,7 +1,7 @@
 # 👋 Yo, I’m Vert  
 
 <p align="center">
-  <img src="assets/black and white l GIF.gif" width="500" alt="Demo">
+  <img src="1.gif" alt="Demo" width="80%">
 </p>
  
 
