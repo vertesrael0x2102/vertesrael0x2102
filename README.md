@@ -1,7 +1,7 @@
 
 
 <div align="center">
-<img hight="200" width="830" alt="GIF" align="center" src="hellothere.gif">
+<img height="500" width="1000" alt="GIF" align="center" src="dinosaur.gif">
 </div>
 
 
@@ -12,9 +12,9 @@
 
 <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 35>&nbsp;**ABOUT ME**
 
-### - I'm 10101 years old 
+<img height="400" width="500" alt="GIF" align="right" src="1.gif">
+🔳 I'm Vert, 21 years old currently studying @MSU-IIT
 
-<img hight="400" width="500" alt="GIF" align="right" src="2.gif">
 
 ### - Learning :
 - 🔗 Cybersecurity
