@@ -12,7 +12,7 @@
 
 <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 35>&nbsp;**ABOUT ME**
 
-<img height="400" width="500" alt="GIF" align="right" src="1.gif">
+<img height="300" width="400" alt="GIF" align="right" src="1.gif">
 🔳 I'm Vert, 21 years old currently studying @MSU-IIT
 
 
