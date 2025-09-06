@@ -20,6 +20,6 @@
 
 
 
-<img height="300" width="400" alt="Death Note Page" align="right" src="VI9xqJN-Imgur.png">
+<img height="300" width="400" alt="GIF" align="right" src="deathnote.gif">
 
 
