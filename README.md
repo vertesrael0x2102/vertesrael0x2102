@@ -20,6 +20,6 @@
 
 
 
-<img height="300" width="400" alt="GIF" align="right" src="deathnote.gif">
+<img height="300" width="400" alt="GIF" align="right" src="deathnote.png">
 
 
