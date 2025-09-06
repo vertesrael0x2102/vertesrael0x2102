@@ -21,7 +21,7 @@
 
 
 <p align="center">
-<img src="VI9xqJN-Imgur.png" width="500" alt="Death Note How to Use It" />
+<img src="VI9xqJN-Imgur.png" width="500" alt="Death Note How to UseIt" />
 </p>
 
 
