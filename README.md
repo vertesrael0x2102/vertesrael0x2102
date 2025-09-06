@@ -1,3 +1,16 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Video Embed</title>
+</head>
+<body>
+  <div align="center">
+    <video src="gons-hunter-spirit.1920x1080.mp4" width="600" autoplay loop muted playsinline></video>
+  </div>
+</body>
+</html>
 
 
 <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 35>&nbsp;**ABOUT ME**
