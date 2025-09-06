@@ -20,8 +20,6 @@
 
 
 
-<p align="center">
-<img src="VI9xqJN-Imgur.png" width="500" alt="Death Note How to UseIt" />
-</p>
+<img height="300" width="400" alt="Death Note Page" align="right" src="VI9xqJN-Imgur.png">
 
 
