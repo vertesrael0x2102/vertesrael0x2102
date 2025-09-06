@@ -20,14 +20,6 @@
 </br>
 
 
----
-## Skill Set:
-<a href="https://github.com/vertesrael0x2102">
-<div align="center">  
-       <img src="https://skillicons.dev/icons?i=html,css,linux,java,python&perline=4" /> 
-</div>
-</a>
- </td><td valign="top" width="25%">
 
 
 
