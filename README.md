@@ -40,14 +40,18 @@
  </td><td valign="top" width="25%">
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=vertesrael0x2102&theme=dracula&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=vertesrael0x2102&theme=dracula&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=vertesrael0x2102&theme=dracula&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vertesrael0x2102&theme=dracula&hide_border=true&include_all_commits=false&count_private=false" /><br/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=vertesrael0x2102&theme=dracula&hide_border=true" /><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vertesrael0x2102&theme=dracula&hide_border=true&include_all_commits=false&count_private=false&layout=compact" />
+</p>
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=vertesrael0x2102&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=vertesrael0x2102&limit=5&theme=dark&combine_all_yearly_contributions=true" />
+</p>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
 # ⚔️ Berserk Tribute  
