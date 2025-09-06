@@ -38,8 +38,16 @@
   <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&style=for-the-badge" />
   &nbsp;&nbsp;&nbsp;
   <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?logo=python&style=for-the-badge" />
+  
 </p>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
 
+<img height="300" width="400" alt="GIF" align="left" src="dogge.gif">
 
 
 
