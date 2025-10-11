@@ -47,7 +47,6 @@
 </br>
 </br>
 
-<img height="300" width="400" alt="GIF" align="left" src="dogge.gif">
 
 
 
