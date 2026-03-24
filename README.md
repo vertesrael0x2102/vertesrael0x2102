@@ -1,7 +1,7 @@
 
 <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 35>&nbsp;**ABOUT ME**
 
-<img height="300" width="500" alt="GIF" align="right" src="mahito.gif">
+<img height="300" width="500" alt="GIF" align="right" src="simo hayha.jpg">
 🔳 I'm Vert, 21 years old currently studying @MSU-IIT
 
 
