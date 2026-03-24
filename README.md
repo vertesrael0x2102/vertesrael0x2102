@@ -1,58 +1,48 @@
-
-<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 35>&nbsp;**ABOUT ME**
-
-<img height="700" width="400" alt="GIF" align="right" src="simo hayha.jpg">
-🔳 I'm Vert, 21 years old currently studying @MSU-IIT
-
-
-### - Learning :
-- 🔗 Cybersecurity
-- 🔗 Ethical Hacking
-
-### - Hobbies : 
-- 🔗 Gaming Addict
-- 🔗 Watching Anime
-
-
-</br>
-</br>
-</br>
-
-
-## 🛠️ Skills
-<img height="700" width="400" alt="GIF" align="right" src="skull.gif">
 <p align="center">
-  <img src="1.gif" width="80"/>
-  <img src="2.gif" width="80"/>
-  <img src="3.gif" width="80"/>
-  <img src="4.gif" width="80"/>
-  <img src="5.gif" width="80"/>
+<pre>
+██╗   ██╗███████╗██████╗ ████████╗
+██║   ██║██╔════╝██╔══██╗╚══██╔══╝
+██║   ██║█████╗  ██████╔╝   ██║   
+╚██╗ ██╔╝██╔══╝  ██╔══██╗   ██║   
+ ╚████╔╝ ███████╗██║  ██║   ██║   
+  ╚═══╝  ╚══════╝╚═╝  ╚═╝   ╚═╝   
+             [ 0x2102 ]
+</pre>
 </p>
 
-<p align="center">
-  <!-- Row 1 -->
-  <img alt="Linux" src="https://img.shields.io/badge/-Linux-black?logo=linux&style=for-the-badge" /><br><br>
+---
 
-  <!-- Row 2 -->
-  <img alt="Cisco" src="https://img.shields.io/badge/-Cisco-00539F?logo=cisco&style=for-the-badge" />
-  &nbsp;&nbsp;&nbsp;
-  <img alt="Java" src="https://img.shields.io/badge/-Java-007396?logo=java&style=for-the-badge" /><br><br>
+### 📂 systeminfo.sh
+```zsh
+$ whoami
+> Vert (21 y/o)
 
-  <!-- Row 3 -->
-  <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&style=for-the-badge" />
-  &nbsp;&nbsp;&nbsp;
-  <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&style=for-the-badge" />
-  &nbsp;&nbsp;&nbsp;
-  <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?logo=python&style=for-the-badge" />
-  
-</p>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
+$ locate education
+> BS Computer Science @ MSU-IIT (Iligan City, PH)
 
+$ status --progress
+> [■■■■■□□□□□] 50% Degree Completion
 
+$ grep "interests" profile.txt
+> Cybersecurity, Ethical Hacking, Network Analysis, Gaming, Anime
 
+🛠️ toolset.bin
+# Language & Scripting
+$python --version      # 3.10+$ java --version        # OpenJDK 17
+$ cat languages.txt     # HTML5, CSS3, Python, Java
 
+# Network & Security
+$nmap -v               # Network Exploration & Security Auditing$ wireshark --version   # Packet Analysis & Troubleshooting
+$ssh -T cisco          # IOS Configuration & Management$ uname -a              # Linux/Unix Systems Proficiency
+
+🚀 ls -la ./projects/
+drwxr-xr-x [TSP-Optimizer] — Route Optimization via Genetic Algorithms.
+
+drwxr-xr-x [NetSim-Labs] — Virtualized network topology deployments.
+
+drwxr-xr-x [SecScripts] — Automation for basic vulnerability scanning.
+
+📫 establish_connection.exe
+MAIL: vertesraelg@gmail.com
+
+GITHUB: github.com/vertesrael0x2102
