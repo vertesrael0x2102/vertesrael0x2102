@@ -20,7 +20,7 @@
 
 
 ## 🛠️ Skills
-<img height="700" width="400" alt="GIF" align="right" src="deathnote.png">
+<img height="700" width="400" alt="GIF" align="right" src="skull.gif">
 
 
 <p align="center">
