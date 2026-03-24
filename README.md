@@ -1,13 +1,7 @@
 
 <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 35>&nbsp;**ABOUT ME**
 
-<p align="center">
-  <img src="1.gif" width="120"/>
-  <img src="2.gif" width="120"/>
-  <img src="3.gif" width="120"/>
-  <img src="4.gif" width="120"/>
-  <img src="5.gif" width="120"/>
-</p>
+<img height="700" width="400" alt="GIF" align="right" src="simo hayha.jpg">
 🔳 I'm Vert, 21 years old currently studying @MSU-IIT
 
 
@@ -27,7 +21,13 @@
 
 ## 🛠️ Skills
 <img height="700" width="400" alt="GIF" align="right" src="skull.gif">
-
+<p align="center">
+  <img src="1.gif" width="80"/>
+  <img src="2.gif" width="80"/>
+  <img src="3.gif" width="80"/>
+  <img src="4.gif" width="80"/>
+  <img src="5.gif" width="80"/>
+</p>
 
 <p align="center">
   <!-- Row 1 -->
