@@ -2,11 +2,11 @@
 <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 35>&nbsp;**ABOUT ME**
 
 <p align="center">
-  <img src="1.gif" width="180"/>
-  <img src="2.gif" width="180"/>
-  <img src="3.gif" width="180"/>
-  <img src="4.gif" width="180"/>
-  <img src="5.gif" width="180"/>
+  <img src="1.gif" width="120"/>
+  <img src="2.gif" width="120"/>
+  <img src="3.gif" width="120"/>
+  <img src="4.gif" width="120"/>
+  <img src="5.gif" width="120"/>
 </p>
 🔳 I'm Vert, 21 years old currently studying @MSU-IIT
 
