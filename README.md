@@ -18,7 +18,7 @@ $ whoami
 > Vert (21 y/o)
 
 $ locate education
-> BS Computer Science @ MSU-IIT (Iligan City, PH)
+> BS Information Technology @ MSU-IIT (Iligan City, PH)
 
 $ status --progress
 > [■■■■■□□□□□] 50% Degree Completion
