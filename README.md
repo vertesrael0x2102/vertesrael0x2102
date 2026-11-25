@@ -1,3 +1,4 @@
+
 <p align="center">
 <pre>
 ██╗   ██╗███████╗██████╗ ████████╗
@@ -13,36 +14,79 @@
 ---
 
 ### 📂 systeminfo.sh
+
 ```zsh
 $ whoami
-> Vert (21 y/o)
+> Vert | IT Graduate | 0x2102
 
 $ locate education
-> BS Information Technology @ MSU-IIT (Iligan City, PH)
+> BS Information Technology @ MSU-IIT
+> Iligan City, Philippines
 
 $ status --progress
-> [■■■■■□□□□□] 50% Degree Completion
+> [■■■■■■■■■■] 100% Degree Completion
+
+$ cat profile.txt
+> A versatile IT graduate interested in networking,
+> cybersecurity, and system administration.
+> Always learning, building, and exploring new technologies.
 
 $ grep "interests" profile.txt
-> Cybersecurity, Ethical Hacking, Network Analysis, Gaming, Anime
+> Cybersecurity, Ethical Hacking, Networking,
+> Linux, CTF Challenges, Gaming, Anime
+```
 
-🛠️ toolset.bin
-# Language & Scripting
-$python --version      # 3.10+$ java --version        # OpenJDK 17
-$ cat languages.txt     # HTML5, CSS3, Python, Java
+### 🛠️ toolset.bin
 
-# Network & Security
-$nmap -v               # Network Exploration & Security Auditing$ wireshark --version   # Packet Analysis & Troubleshooting
-$ssh -T cisco          # IOS Configuration & Management$ uname -a              # Linux/Unix Systems Proficiency
+```bash
+# Languages & Scripting
+$ cat languages.txt
+> Python, Java, HTML5, CSS3, JavaScript
 
-🚀 ls -la ./projects/
-drwxr-xr-x [TSP-Optimizer] — Route Optimization via Genetic Algorithms.
+# Networking
+$ cat networking.txt
+> TCP/IP, Subnetting, VLANs, STP, OSPF,
+> Routing & Switching, Network Troubleshooting
 
-drwxr-xr-x [NetSim-Labs] — Virtualized network topology deployments.
+# Security & Systems
+$ cat security.txt
+> Nmap, Wireshark, Linux, SSH,
+> Basic Vulnerability Scanning, Cybersecurity Fundamentals
 
-drwxr-xr-x [SecScripts] — Automation for basic vulnerability scanning.
+# Tools & Technologies
+$ cat tools.txt
+> Git, GitHub, Cisco Packet Tracer,
+> React, GeoJSON, Leaflet, MySQL
+```
 
-📫 establish_connection.exe
-MAIL: vertesraelg@gmail.com
+### 🚀 ls -la ./projects/
 
-GITHUB: github.com/vertesrael0x2102
+```bash
+drwxr-xr-x [TSP-Optimizer]
+> Route optimization using the Travelling Salesman Problem.
+
+drwxr-xr-x [NetSim-Labs]
+> Network topology design and configuration using Cisco Packet Tracer.
+
+drwxr-xr-x [SecScripts]
+> Basic scripts for security automation and vulnerability scanning.
+
+drwxr-xr-x [Route-Visualizer]
+> Interactive network visualization using React, Leaflet, and GeoJSON.
+```
+
+### 📫 establish_connection.exe
+
+```bash
+$ cat contact.txt
+
+EMAIL:     vertesraelg@gmail.com
+GITHUB:    github.com/vertesrael0x2102
+PORTFOLIO: vertesrael.vercel.app
+```
+
+<p align="center">
+  <a href="https://vertesrael.vercel.app">Portfolio</a> •
+  <a href="https://github.com/vertesrael0x2102">GitHub</a> •
+  <a href="mailto:verttesraelg@gmail.com">Email</a>
+</p>
